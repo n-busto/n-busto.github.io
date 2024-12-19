@@ -22,7 +22,8 @@ layout: compress
                     </a>
                 </div>
                 <div class="post-list">
-                    {% for exp in site.experiences %}
+                    {% assign sorted_experience = site.experiences | sort: 'date' | reverse %}
+                    {% for exp in sorted_experience %}
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
                             <a class="zoombtn" href="{{ site.url }}{{ exp.url }}">{{ exp.title }}</a>
