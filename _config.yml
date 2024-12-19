@@ -90,3 +90,8 @@ exclude:
     LICENSE,
     Rakefile,
   ]
+
+collections:
+  articles:
+    output: true
+    permalink: /experiences/:title/
