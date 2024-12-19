@@ -3,6 +3,8 @@ layout: experience
 title:  "My experience in softtek"
 date:   2024-02-01
 categories: timeline
+excerpt: "My experience in softtek."
+comments: true
 ---
 
 ## Softtek

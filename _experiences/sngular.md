@@ -3,6 +3,8 @@ layout: experience
 title:  "My experience in sngular"
 date:   2022-05-01
 categories: timeline
+excerpt: "My experience in sngular."
+comments: true
 ---
 
 ## Sngular

@@ -3,6 +3,8 @@ layout: experience
 title:  "My experience in indra"
 date:   2017-07-01
 categories: timeline
+excerpt: "My experience in indra."
+comments: true
 ---
 
 ## Indra
