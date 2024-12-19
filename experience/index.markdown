@@ -1,6 +1,6 @@
 ---
-layout: Experience
+layout: experience-list
 title: My experience
-excerpt: "My timeline"
+excerpt: "My profesional timeline"
 comments: false
 ---
