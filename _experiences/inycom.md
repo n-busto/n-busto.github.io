@@ -1,9 +1,9 @@
 ---
 layout: experience
-title:  "My experience in inycom"
+title:  "My experience at inycom"
 date:   2020-11-01
 categories: timeline
-excerpt: "My experience in inycom."
+excerpt: "My experience at inycom."
 ---
 
 ## Inycom

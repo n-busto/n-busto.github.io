@@ -1,9 +1,9 @@
 ---
 layout: experience
-title:  "My experience in sngular"
+title:  "My experience at sngular"
 date:   2022-05-01
 categories: timeline
-excerpt: "My experience in sngular."
+excerpt: "My experience at sngular."
 ---
 
 ## Sngular

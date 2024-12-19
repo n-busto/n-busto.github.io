@@ -1,9 +1,9 @@
 ---
 layout: experience
-title:  "My experience in indra"
+title:  "My experience at indra"
 date:   2017-07-01
 categories: timeline
-excerpt: "My experience in indra."
+excerpt: "My experience at indra."
 ---
 
 ## Indra

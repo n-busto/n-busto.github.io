@@ -1,9 +1,9 @@
 ---
 layout: experience
-title:  "My experience in softtek"
+title:  "My experience at softtek"
 date:   2024-02-01
 categories: timeline
-excerpt: "My experience in softtek."
+excerpt: "My experience at softtek."
 ---
 
 ## Softtek

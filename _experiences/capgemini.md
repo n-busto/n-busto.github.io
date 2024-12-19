@@ -1,9 +1,9 @@
 ---
 layout: experience
-title:  "My experience in capgemini"
+title:  "My experience at capgemini"
 date:   2013-07-01
 categories: timeline
-excerpt: "My experience in capgemini."
+excerpt: "My experience at capgemini."
 ---
 
 ## Capgemini
