@@ -92,6 +92,6 @@ exclude:
   ]
 
 collections:
-  articles:
+  experience:
     output: true
     permalink: /experiences/:title/
