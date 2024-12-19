@@ -1,14 +1,14 @@
 # Site
-title: Moonrise
-bio: "Minimal, one column jekyll theme."
-description: "Moonrise is a fresh take on the classic Moon"
+title: Nicanor
+bio: "This is my profile."
+description: "Here you can find all my professional information"
 reading_time: true
 words_per_minute: 200
-logo: "assets/img/logo.png"
+logo: "assets/img/myAvatar.png"
 background: "assets/img/moonrise-background.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
-url: https://TolgaTatli.github.io/Moonrise
+url: https://n-busto.github.io/
 
 # Jekyll
 permalink: /:title/
