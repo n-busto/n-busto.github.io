@@ -20,7 +20,7 @@ really fast, so I'm learning about it because I'm sure that is the better way to
 - I'm trying to learn new languajes and frameworks and improve my knowledge on the ones I know.
 - My objective in the short term is to learn about cloud and frontend so I can be a fullstack developer.
 
-## Tech stack
+### Tech stack
 
 -   **Languajes**: Java, Kotlin, SQL, yaml, json, xml, markdown
 -   **Technologies**: Spring boot, Maven, Gradle, JPA, Hibernate
