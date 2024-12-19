@@ -1,10 +1,8 @@
 ---
 layout: experience
-title: "Capgemini"
-date: 2013-07-01
-excerpt: "My experience in capgemini."
-tags: [cobol, vfp, visual fox]
-comments: true
+title:  "My experience in capgemini"
+date:   2024-12-19
+categories: timeline
 ---
 
 ## Capgemini
