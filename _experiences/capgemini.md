@@ -4,7 +4,6 @@ title:  "My experience in capgemini"
 date:   2024-12-19
 categories: timeline
 excerpt: "My experience in capgemini."
-comments: true
 ---
 
 ## Capgemini
