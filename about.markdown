@@ -6,8 +6,6 @@ date: 2024-12-19
 comments: false
 ---
 
-<center>This is my information</center>
-
 ### Introduction
 
 Hi, I'm Nicanor, a software developer that loves to arg about technology and development, I'm convinced that the technological stack you know is not relevant
