@@ -1,38 +1,29 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2024-02-11
+title: About the Me
+tags: [about, nicanor, n-busto]
+date: 2024-12-19
 comments: false
 ---
 
-<center><a href="http://TolgaTatli.github.io/Moonrise"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center>This is my information</center>
 
-## Features
+### Introduction
 
--   Minimal, you can focus on your content
--   Responsive
--   Disqus integration
--   Syntax highlighting
--   Optional post image
--   Social icons
--   Page for sharing projects
--   Optional background image
--   Simple navigation menu
--   MathJax support
+Hi, I'm Nicanor, a software developer that loves to arg about technology and development, I'm convinced that the technological stack you know is not relevant
+to cover a new work with different technologies because since you have clear knowledge about software architecture, you will be able to adapt to this new stack
+really fast, so I'm learning about it because I'm sure that is the better way to be a better developer.
 
-## Preview
 
-{% capture images %}
-https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+### My path
+- I'm currently trying to learn about architecture (the more I learn the more I figure out that there is a not ending path).
+- I'm trying to learn new languajes and frameworks and improve my knowledge on the ones I know.
+- My objective in the short term is to learn about cloud and frontend so I can be a fullstack developer.
 
-See a [live version of Moon](http://TolgaTatli.github.io/Moonrise) hosted on GitHub.
+## Tech stack
 
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-
-[Install Moon](https://github.com/TolgaTatli/Moonrise){: .btn}
+-   **Languajes**: Java, Kotlin, SQL, yaml, json, xml, markdown
+-   **Technologies**: Spring boot, Maven, Gradle, JPA, Hibernate
+-   **IDE**: Intellij, Eclipse, VSCode
+-   **Tools**: Git, Postman, GitHub, GitLab, Jira, Clonfluence
+-   **Other**: REST API, PostgreSQL, MySQL
