@@ -8,10 +8,7 @@ comments: false
 
 ### Introduction
 
-Hi, I'm Nicanor, a software developer that loves to arg about technology and development, I'm convinced that the technological stack you know is not relevant
-to cover a new work with different technologies because since you have clear knowledge about software architecture, you will be able to adapt to this new stack
-really fast, so I'm learning about it because I'm sure that is the better way to be a better developer.
-
+Hi, I'm Nicanor, a software developer that loves to discuss about technology and development, I'm convinced that the technological stack you know is not relevant to cover a new work with different technologies because since you have clear knowledge about software architecture, you will be able to adapt to this new stack really fast, so I'm learning about it because I'm sure is the better way to be a better developer.
 
 ### My path
 - I'm currently trying to learn about architecture (the more I learn the more I figure out that there is a not ending path).
