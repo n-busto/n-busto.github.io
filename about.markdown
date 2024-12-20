@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: About the Me
 tags: [about, nicanor, n-busto]
 date: 2024-12-19
