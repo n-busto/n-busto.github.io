@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About the Me
+title: About Me
 tags: [about, nicanor, n-busto]
 date: 2024-12-19
 comments: false
