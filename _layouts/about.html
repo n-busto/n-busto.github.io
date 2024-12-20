@@ -21,13 +21,17 @@ layout: compress
                 <div class="post-title {% if page.feature %} feature {% endif %}">
                     <h1>{{ page.title }}</h1>
                 </div>
-                <a class="btn zoombtn" href="{{site.url}}">
-                    <i class="fa fa-home"></i>
-                </a>
+                <div class="align-items-center">
+                    <a class="btn zoombtn mx-auto" href="{{site.url}}">
+                        <i class="fa fa-home"></i>
+                    </a>
+                </div>
                 {{ content }}
-                <a class="btn zoombtn" href="{{site.url}}">
-                    <i class="fa fa-home"></i>
-                </a>
+                <div class="align-items-center">
+                    <a class="btn zoombtn mx-auto" href="{{site.url}}">
+                        <i class="fa fa-home"></i>
+                    </a>
+                </div>
             </div>
         </div>
         {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp"></section>
