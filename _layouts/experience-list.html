@@ -29,6 +29,11 @@ layout: compress
                             <a class="zoombtn" href="{{ site.url }}{{ exp.url }}">{{ exp.title }}</a>
                             <p>{{ exp.excerpt }}</p>
                             <a href="{{ site.url }}{{ exp.url }}" class="btn zoombtn">Read More</a>
+                            <p>
+                            {% for tag in exp.tags %}
+                                <span>#{{ tag }}</span>
+                            {% endfor %}
+                            </p>
                         </li>
                     </ul>
                     {% endfor %}

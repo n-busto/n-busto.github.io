@@ -21,11 +21,9 @@ layout: compress
                 <div class="post-title">
                     <h1>{{ page.title }}</h1>
                     <h4>{{ page.date | date: "%B %Y" }}</h4>
-                    <p>
                     {% for tag in page.tags %}
-                        <i>{{ tag }}</i>
+                        <p>#{{ tag }}</p>
                     {% endfor %}
-                    </p>
                 </div>
                 <a class="btn zoombtn" href="{{site.url}}/experience/">
                     <i class="fa fa-chevron-circle-left" aria-hidden="true"></i>
