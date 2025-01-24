@@ -2,8 +2,9 @@
 layout: experience
 title:  "My experience at Softtek."
 date:   2024-02-01
-categories: timeline
+categories: [timeline]
 excerpt: "API designer and Spring boot developer"
+tags: [Springboot, Java, JPA, Hibernate, REST, Swagger, AzureDevs, PostgreSQL, APIC, Git]
 ---
 
 ## Softtek

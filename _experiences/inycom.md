@@ -2,8 +2,9 @@
 layout: experience
 title:  "My experience at Inycom."
 date:   2020-11-01
-categories: timeline
+categories: [timeline]
 excerpt: "Spring boot developer"
+tags: [Springboot, Java, JPA, Hibernate, REST, PostgreSQL, Kafka]
 ---
 
 ## Inycom

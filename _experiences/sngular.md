@@ -2,8 +2,9 @@
 layout: experience
 title:  "My experience at Sngular."
 date:   2022-05-01
-categories: timeline
+categories: [timeline]
 excerpt: "Spring boot developer"
+tags: [Springboot, Java, JPA, Hibernate, REST, Swagger, GCP, HexagonalArch, PostgreSQL, Git, Kafka]
 ---
 
 ## Sngular
