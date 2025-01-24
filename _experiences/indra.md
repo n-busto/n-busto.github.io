@@ -4,7 +4,7 @@ title:  "My experience at Indra."
 date:   2017-07-01
 categories: [timeline]
 excerpt: "IIB9 and VFP developer"
-tags: [VFP, SQLServer, IIB9, MongoDB, Java, Git]
+tags: [VFP, SQLServer, IIB9, Java, Git]
 ---
 
 ## Indra
