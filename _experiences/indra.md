@@ -1,9 +1,9 @@
 ---
 layout: experience
-title:  "IIB9 and VFP developer"
+title:  "My experience at Indra."
 date:   2017-07-01
 categories: timeline
-excerpt: "My experience at indra."
+excerpt: "IIB9 and VFP developer"
 ---
 
 ## Indra

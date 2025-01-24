@@ -1,9 +1,9 @@
 ---
 layout: experience
-title:  "Spring boot developer"
+title:  "My experience at Inycom."
 date:   2020-11-01
 categories: timeline
-excerpt: "My experience at inycom."
+excerpt: "Spring boot developer"
 ---
 
 ## Inycom

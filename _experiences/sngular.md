@@ -1,9 +1,9 @@
 ---
 layout: experience
-title:  "Spring boot developer"
+title:  "My experience at Sngular."
 date:   2022-05-01
 categories: timeline
-excerpt: "My experience at sngular."
+excerpt: "Spring boot developer"
 ---
 
 ## Sngular

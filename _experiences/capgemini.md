@@ -1,9 +1,9 @@
 ---
 layout: experience
-title:  "COBOL and VFP developer"
+title:  "My experience at Capgemini."
 date:   2013-07-01
 categories: timeline
-excerpt: "My experience at capgemini."
+excerpt: "COBOL and VFP developer"
 ---
 
 ## Capgemini
