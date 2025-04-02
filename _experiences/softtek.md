@@ -21,7 +21,7 @@ After that I became a API designer, my main task was creating technical document
 
 ### Backend developer
 
-Actually i'm backend developer on Spring boot in a card digitalization project.
+Spring boot developer in a card digitalization project.
 
 #### Tech stack
 - Java 17
@@ -36,3 +36,25 @@ Actually i'm backend developer on Spring boot in a card digitalization project.
 - Maven
 - GitHub
 - Postman
+
+### Backend developer
+
+Spring boot developer in a retail company.
+
+#### Tech stack
+- Java 17
+- Spring boot 3
+- API Rest
+- Azure cosmos
+- Swagger/Open api
+- Mockito
+- MockMvc
+- Karate framework
+- Maven
+- GitHub
+- Insomnia
+- DDD
+- Hexagonal architecture
+- Azure cloud
+- Jira
+- Confluence
